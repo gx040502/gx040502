@@ -43,6 +43,6 @@ I am currently seeking internship opportunities where I can apply my knowledge, 
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
 
 ###
