@@ -1,4 +1,4 @@
-## 👋 Hi, I'm Tan Gyap Xun!
+ 👋 Hi, I'm Tan Gyap Xun!
 
 🎓 I'm currently pursuing a Bachelor's Degree in **Software Engineering** at **Universiti Tunku Abdul Rahman (UTAR)**.  
 💡 I'm passionate about learning new technologies and continuously improving my skills in software development.  
@@ -7,7 +7,7 @@
 
 
 
-### 📊 GitHub Stats
+ 📊 GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=gx040502&show_icons=true&theme=dracula&count_private=true&include_all_commits=true&hide_border=false" height="150" />
@@ -16,7 +16,7 @@
 
 
 
-### 💻 Tech Stack
+ 💻 Tech Stack
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript" />
@@ -42,9 +42,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="GitHub" />
 </div>
 
-<img align="right" height="150" src="https://www.gifcen.com/wp-content/uploads/2023/07/batman-gif-2.gif" />
+<img align="right" height="250" src="https://www.gifcen.com/wp-content/uploads/2023/07/batman-gif-2.gif" />
 
-### 🌐 Connect with Me
+ 🌐 Connect with Me
 
 <div align="left">
   <a href="https://www.instagram.com/cyx2517" target="_blank">
