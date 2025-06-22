@@ -5,7 +5,7 @@
 🚀 I’m currently looking for **internship opportunities** to apply my knowledge, gain real-world experience, and contribute to impactful projects.  
 🌱 I'm eager to learn, adaptable, and motivated to grow as a future software engineer.
 
-
+---
 
  📊 GitHub Stats
 
@@ -44,8 +44,9 @@
 
 <img align="right" height="150" src="https://www.gifcen.com/wp-content/uploads/2023/07/batman-gif-2.gif" />
 
+<img width="12" />
  🌐 Connect with Me
-
+<img height="12" />
 <div align="left">
   <a href="https://www.instagram.com/cyx2517" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" />
