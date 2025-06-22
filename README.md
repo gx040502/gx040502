@@ -42,7 +42,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="GitHub" />
 </div>
 
-<img align="right" height="250" src="https://www.gifcen.com/wp-content/uploads/2023/07/batman-gif-2.gif" />
+<img align="right" height="100" src="https://www.gifcen.com/wp-content/uploads/2023/07/batman-gif-2.gif" />
 
  🌐 Connect with Me
 
